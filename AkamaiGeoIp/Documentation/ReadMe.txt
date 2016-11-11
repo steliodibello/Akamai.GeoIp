@@ -1,0 +1,1 @@
+﻿For additional information on the creation of the Akamai.GeoIp module, please see the blog post at https://sitecorecommerce.wordpress.com/2016/11/07/integrate-akamai-with-sitecore-to-deliver-geoip-personalisation/
